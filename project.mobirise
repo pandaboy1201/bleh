@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "tumblr",
+    "name": "bleh & life",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -8,8 +8,11 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 12,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 16,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "true",
+    "google-analytics": "UA-92522395-1"
   },
   "pages": {
     "index.html": {
@@ -128,12 +131,24 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
           "_anchor": "header4-4",
           "_params": {
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/index2-2000x1600.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -150,43 +165,27 @@
           },
           "title": "will try to upadate this thing daily.",
           "text": "beause stuff happens, you know.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
-          "_styles": {
-            "H1": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-b",
+          "_name": "footer1",
+          "_anchor": "footer1-f",
           "_params": {
-            "outside": true,
-            "showText": true
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/edit-21331-1429300315-1400x934.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "ThinkStock//Reprise Records."
+          "text": "Copyright (c) 2017 @pandaboy1201/GitHub.&nbsp;"
         }
       ]
     }

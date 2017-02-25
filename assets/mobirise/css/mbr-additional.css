@@ -1,4 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 #ext_menu-6 .mbr-brand__name {
   font-size: 16px;
@@ -25,7 +28,9 @@
 }
 #header4-4 H1 {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #header4-4 P {
   color: #000000;
+  font-family: 'Raleway', sans-serif;
 }
