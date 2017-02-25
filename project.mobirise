@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 10,
+    "uniqCompNum": 12,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -164,26 +164,29 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-9",
+          "_name": "image2",
+          "_anchor": "image2-b",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "counters": true,
-            "facebook": true,
-            "google": true,
-            "twitter": true
+            "outside": true,
+            "showText": true
           },
-          "text": "SHARE THIS PAGE!"
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/edit-21331-1429300315-1400x934.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "ThinkStock//Reprise Records."
         }
       ]
     }
