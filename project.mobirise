@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7,
+    "uniqCompNum": 10,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -67,7 +67,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">POSTS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ARCHIVE</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#image1-8\">POSTS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ARCHIVE</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
         {
@@ -161,35 +161,29 @@
           }
         },
         {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-9",
           "_params": {
-            "autoplay": false,
             "paddingTop": 3,
-            "paddingBottom": 3,
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/index-2000x1333.jpg",
-                "contentAlign": "center",
-                "overlay": true,
-                "showTitle": true,
-                "title": "first post",
-                "showText": true,
-                "text": "dunno what ill write.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#000000",
-            "showBullets": true
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
           },
-          "_anchor": "slider-5",
-          "articleLayout": false
+          "text": "SHARE THIS PAGE!"
         }
       ]
     }
