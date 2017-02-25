@@ -8,11 +8,11 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 19,
     "versionPublish": "3.12.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/photo-1478098711619-5ab0b478d6e6-1.jpg",
     "noImageResize": "true",
-    "google-analytics": "UA-92522395-1"
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-92522395-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
     "index.html": {
@@ -39,14 +39,14 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-6",
           "_params": {
             "color": "#2c2c2c",
-            "hamburgerColor": "#000000",
+            "hamburgerColor": "#ffffff",
             "transparent": true,
             "sticky": false,
             "collapsed": false,
@@ -105,8 +105,8 @@
             "showText": false,
             "showButton": false,
             "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/index2-2000x1600.jpg",
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1478098711619-5ab0b478d6e6.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -147,7 +147,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/index2-2000x1600.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1478098711619-5ab0b478d6e6.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
@@ -161,11 +161,23 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": false
+            "showArrow": true
           },
           "title": "will try to upadate this thing daily.",
           "text": "beause stuff happens, you know.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i",
+          "title": "\"WHAT IS SO ETERNAL ABOUT LOVE,<br>IS THERE A WAY TO TURN &nbsp;IT OFF,<br>YOU KNOW SO SHOW ME THE WAY\"",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "By Skott."
         },
         {
           "_tags": [
