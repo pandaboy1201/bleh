@@ -148,7 +148,7 @@
           },
           "_anchor": "header4-4",
           "_params": {
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/baher-khairy-2000x1125.jpg",
             "bgColor": "#efefef",
@@ -252,7 +252,7 @@
             "showText": false,
             "showButton": false,
             "bgImageRadio": true,
-            "parallax": false,
+            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/henry-perks-2000x1329.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
