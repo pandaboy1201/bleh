@@ -1,30 +1,33 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
-#ext_menu-6 .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-6.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-6 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
+
 #content5-3 .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
+  color: #000000;
   font-size: 72px;
   font-family: 'Slabo 27px', serif;
 }
 #content5-3 .mbr-header .mbr-header__subtext {
   text-align: center;
-  color: #fff;
+  color: #000000;
   font-size: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #content5-3 .mbr-article {
   color: #fff;
+}
+#ext_menu-6 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-6.mbr-navbar--stuck .mbr-navbar__section {
+  background: #0b0b0b;
+}
+#ext_menu-6 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #header4-4 H1 {
   color: #ffffff;
