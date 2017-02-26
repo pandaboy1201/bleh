@@ -30,14 +30,14 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "72px",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "20px",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
@@ -58,18 +58,18 @@
             "showTitle": true,
             "showText": false,
             "showButton": false,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-1478098711619-5ab0b478d6e6.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/baher-khairy-2000x1125.jpg",
             "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#28324e",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
             "showMeta": true,
             "darkBackground": true
           },
@@ -149,10 +149,10 @@
           "_anchor": "header4-4",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/baher-khairy-2000x1125.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -253,7 +253,7 @@
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/henry-perks-2000x1329.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/baher-khairy-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
