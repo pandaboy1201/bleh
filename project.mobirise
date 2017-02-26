@@ -148,7 +148,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/henry-perks-2000x1329.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -157,12 +157,12 @@
             "bgVideoRadio": false,
             "contentAlign": "left",
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": false
           },
           "title": "will try to upadate this thing daily.",
           "text": "beause stuff happens, you know.",
@@ -251,7 +251,7 @@
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/henry-perks-2000x1329.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
