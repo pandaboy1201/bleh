@@ -30,14 +30,14 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#ffffff",
+              "color": "#000000",
               "font-size": "72px",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
-              "color": "#ffffff",
+              "color": "#000000",
               "font-size": "20px",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
@@ -58,11 +58,11 @@
             "showTitle": true,
             "showText": false,
             "showButton": false,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/baher-khairy-2000x1125.jpg",
             "bgColor": "#ffffff",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -88,18 +88,18 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#0b0b0b"
+              "background": "#000000"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-6",
           "_params": {
-            "color": "#0b0b0b",
-            "hamburgerColor": "#ffffff",
+            "color": "#000000",
+            "hamburgerColor": "#000000",
             "transparent": true,
             "sticky": false,
             "collapsed": false,
@@ -149,10 +149,10 @@
           "_anchor": "header4-4",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/baher-khairy-2000x1125.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
+            "bgColor": "#7ac673",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
