@@ -105,3 +105,18 @@
 #content5-r .mbr-article {
   color: #fff;
 }
+#ext_menu-s .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-s.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-s .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-s .mbr-navbar__hamburger {
+  color: #000000;
+}
+#header4-u P {
+  font-size: 30px;
+}
