@@ -26,6 +26,9 @@
 #ext_menu-6.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-6 .mbr-navbar__section {
+  background: #ffffff;
+}
 #ext_menu-6 .mbr-navbar__hamburger {
   color: #000000;
 }
@@ -44,6 +47,15 @@
 #header3-j H3 {
   color: #1abc9c;
 }
+#msg-box4-o .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-o .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-o .mbr-article {
+  color: #ffffff;
+}
 #content5-k .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -53,5 +65,43 @@
   color: #fff;
 }
 #content5-k .mbr-article {
+  color: #fff;
+}
+#ext_menu-l .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-l.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-l .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-l .mbr-navbar__hamburger {
+  color: #000000;
+}
+#header4-n P {
+  font-size: 30px;
+}
+#ext_menu-p .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-p .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-p .mbr-navbar__hamburger {
+  color: #000000;
+}
+#content5-r .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-r .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-r .mbr-article {
   color: #fff;
 }
