@@ -175,17 +175,17 @@
             "Theme"
           ],
           "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#9365b8"
+            }
+          },
           "_anchor": "header3-i",
           "title": "\"WHAT IS SO ETERNAL ABOUT LOVE,<br>IS THERE A WAY TO TURN &nbsp;IT OFF,<br>YOU KNOW SO SHOW ME THE WAY\"",
           "_params": {
             "showMeta": true
           },
-          "meta": "By Skott.",
-          "_styles": {
-            "H3": {
-              "color": "#9365b8"
-            }
-          }
+          "meta": "By Skott."
         },
         {
           "_tags": [
@@ -212,17 +212,17 @@
             "Theme"
           ],
           "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#1abc9c"
+            }
+          },
           "_anchor": "header3-j",
           "title": "\"LIFE IS WHAT HAPPENS TO YOU WHILE YOU'RE BUSY MAKING OTHER PLANS\"",
           "_params": {
             "showMeta": true
           },
-          "meta": "By John Lenon.",
-          "_styles": {
-            "H3": {
-              "color": "#1abc9c"
-            }
-          }
+          "meta": "By John Lenon."
         },
         {
           "_inherit": "msg-box3",
