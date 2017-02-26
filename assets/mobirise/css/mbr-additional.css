@@ -27,10 +27,28 @@
   color: #fff;
 }
 #header4-4 H1 {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Slabo 27px', serif;
+  font-size: 48px;
 }
 #header4-4 P {
-  color: #000000;
+  color: #efefef;
   font-family: 'Raleway', sans-serif;
+}
+#header3-i H3 {
+  color: #9365b8;
+}
+#header3-j H3 {
+  color: #1abc9c;
+}
+#content5-k .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-k .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-k .mbr-article {
+  color: #fff;
 }
