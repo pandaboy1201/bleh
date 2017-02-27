@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bleh & life",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -250,17 +250,17 @@
             "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gtsl-2000x1920.png",
             "bgColor": "#000000",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.7",
             "overlayColor": "#222",
             "inverse": false,
             "showTitle": true,
@@ -274,10 +274,10 @@
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/gtsl-1400x1344.png",
-              "link": "page2.html",
+              "link": "https://itunes.apple.com/in/playlist/handy-guide-to-surviving-life/idpl.ac4d0a4d08f64d77b9ec21cef30d2323",
               "alt": "pretty neat.",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -294,8 +294,8 @@
           "headerAlign": "left",
           "title": "HANDY GUIDE TO SURVIVING LIFE",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "Playlist on Spotify and Apple Music. Check it out, pretty please,&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">APPLE&nbsp;MUSIC</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">SPOTIFY</a>"
+          "text": "Playlist on Spotify and Apple Music. Check it out, pretty please.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://itunes.apple.com/in/playlist/handy-guide-to-surviving-life/idpl.ac4d0a4d08f64d77b9ec21cef30d2323\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">APPLE&nbsp;MUSIC</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">SPOTIFY</a>"
         },
         {
           "_inherit": "msg-box3",
